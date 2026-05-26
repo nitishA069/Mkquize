@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smart Quiz Platform for Teachers",
+  "description": "An automated full-stack quiz platform that extracts MCQs from PDFs using Gemini AI, allowing teachers to review, edit, and publish custom assessments, while offering students an interactive quiz portal with instant graded results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
